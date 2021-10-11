@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AliakbarSu.github.io.password-locker/static/css/main.e441d792.chunk.css",
-    "main.js": "/AliakbarSu.github.io.password-locker/static/js/main.1bc78be8.chunk.js",
-    "main.js.map": "/AliakbarSu.github.io.password-locker/static/js/main.1bc78be8.chunk.js.map",
+    "main.js": "/AliakbarSu.github.io.password-locker/static/js/main.172c79b5.chunk.js",
+    "main.js.map": "/AliakbarSu.github.io.password-locker/static/js/main.172c79b5.chunk.js.map",
     "runtime-main.js": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.66679fdf.js",
     "runtime-main.js.map": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.66679fdf.js.map",
     "static/css/2.5018a1f3.chunk.css": "/AliakbarSu.github.io.password-locker/static/css/2.5018a1f3.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.5018a1f3.chunk.css",
     "static/js/2.2f2298d8.chunk.js",
     "static/css/main.e441d792.chunk.css",
-    "static/js/main.1bc78be8.chunk.js"
+    "static/js/main.172c79b5.chunk.js"
   ]
 }
