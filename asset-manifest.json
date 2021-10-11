@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/AliakbarSu.github.io.password-locker/static/css/main.7ea8c9a7.chunk.css",
-    "main.js": "/AliakbarSu.github.io.password-locker/static/js/main.7a6f65d5.chunk.js",
-    "main.js.map": "/AliakbarSu.github.io.password-locker/static/js/main.7a6f65d5.chunk.js.map",
-    "runtime-main.js": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.d7c6e901.js",
-    "runtime-main.js.map": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.d7c6e901.js.map",
-    "static/css/2.636eba95.chunk.css": "/AliakbarSu.github.io.password-locker/static/css/2.636eba95.chunk.css",
-    "static/js/2.2ab637f5.chunk.js": "/AliakbarSu.github.io.password-locker/static/js/2.2ab637f5.chunk.js",
-    "static/js/2.2ab637f5.chunk.js.map": "/AliakbarSu.github.io.password-locker/static/js/2.2ab637f5.chunk.js.map",
-    "static/js/3.72efa227.chunk.js": "/AliakbarSu.github.io.password-locker/static/js/3.72efa227.chunk.js",
-    "static/js/3.72efa227.chunk.js.map": "/AliakbarSu.github.io.password-locker/static/js/3.72efa227.chunk.js.map",
+    "main.css": "/AliakbarSu.github.io.password-locker/static/css/main.e441d792.chunk.css",
+    "main.js": "/AliakbarSu.github.io.password-locker/static/js/main.1bc78be8.chunk.js",
+    "main.js.map": "/AliakbarSu.github.io.password-locker/static/js/main.1bc78be8.chunk.js.map",
+    "runtime-main.js": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.66679fdf.js",
+    "runtime-main.js.map": "/AliakbarSu.github.io.password-locker/static/js/runtime-main.66679fdf.js.map",
+    "static/css/2.5018a1f3.chunk.css": "/AliakbarSu.github.io.password-locker/static/css/2.5018a1f3.chunk.css",
+    "static/js/2.2f2298d8.chunk.js": "/AliakbarSu.github.io.password-locker/static/js/2.2f2298d8.chunk.js",
+    "static/js/2.2f2298d8.chunk.js.map": "/AliakbarSu.github.io.password-locker/static/js/2.2f2298d8.chunk.js.map",
+    "static/js/3.d9060eaa.chunk.js": "/AliakbarSu.github.io.password-locker/static/js/3.d9060eaa.chunk.js",
+    "static/js/3.d9060eaa.chunk.js.map": "/AliakbarSu.github.io.password-locker/static/js/3.d9060eaa.chunk.js.map",
     "index.html": "/AliakbarSu.github.io.password-locker/index.html",
-    "static/css/2.636eba95.chunk.css.map": "/AliakbarSu.github.io.password-locker/static/css/2.636eba95.chunk.css.map",
-    "static/css/main.7ea8c9a7.chunk.css.map": "/AliakbarSu.github.io.password-locker/static/css/main.7ea8c9a7.chunk.css.map",
-    "static/js/2.2ab637f5.chunk.js.LICENSE.txt": "/AliakbarSu.github.io.password-locker/static/js/2.2ab637f5.chunk.js.LICENSE.txt",
+    "static/css/2.5018a1f3.chunk.css.map": "/AliakbarSu.github.io.password-locker/static/css/2.5018a1f3.chunk.css.map",
+    "static/css/main.e441d792.chunk.css.map": "/AliakbarSu.github.io.password-locker/static/css/main.e441d792.chunk.css.map",
+    "static/js/2.2f2298d8.chunk.js.LICENSE.txt": "/AliakbarSu.github.io.password-locker/static/js/2.2f2298d8.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/AliakbarSu.github.io.password-locker/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7c6e901.js",
-    "static/css/2.636eba95.chunk.css",
-    "static/js/2.2ab637f5.chunk.js",
-    "static/css/main.7ea8c9a7.chunk.css",
-    "static/js/main.7a6f65d5.chunk.js"
+    "static/js/runtime-main.66679fdf.js",
+    "static/css/2.5018a1f3.chunk.css",
+    "static/js/2.2f2298d8.chunk.js",
+    "static/css/main.e441d792.chunk.css",
+    "static/js/main.1bc78be8.chunk.js"
   ]
 }
